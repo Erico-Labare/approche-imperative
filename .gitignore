@@ -31,4 +31,4 @@ bin/
 ### CUSTOM ###
 .idea
 .iml
-.out
+out
