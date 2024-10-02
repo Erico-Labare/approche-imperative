@@ -5,8 +5,8 @@ public class DeclarationApp {
         byte byte1 = 1;
         short short1 = 2;
         int int1 = 3;
-        long long1 = 4;
-        float float1 = 5;
+        long long1 = 4L;
+        float float1 = 5F;
         double double1 = 6;
         char char1 = '7';
         boolean boolean1 = true;
